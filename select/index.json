@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Crossing!",
+  "base_artist": "765 MILLION ALLSTARS",
+  "createdAt": "2026-04-02T20:38:32.868974Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crossing The Bar",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Crossing_The_Bar_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crossing Borders",
+      "artist": "T.P. Allstars",
+      "has_synced": false,
+      "path": "select/02_Crossing_Borders_T.P._Allstars.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crossing Borders",
+      "artist": "TP Allstars",
+      "has_synced": false,
+      "path": "select/03_Crossing_Borders_TP_Allstars.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You'll Need Those Fingers For Crossing",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/04_You'll_Need_Those_Fingers_For_Crossing_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Double Crossing Time - Mono",
+      "artist": "John Mayall & The Bluesbreakers with Eric Clapton",
+      "has_synced": false,
+      "path": "select/05_Double_Crossing_Time_-_Mono_John_Mayall_&_The_Bluesbreakers_with_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Double Crossing Time (Mono)",
+      "artist": "John Mayall & The Bluesbreakers Eric Clapton",
+      "has_synced": false,
+      "path": "select/06_Double_Crossing_Time_(Mono)_John_Mayall_&_The_Bluesbreakers_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Double Crossing Time - Stereo",
+      "artist": "John Mayall & The Bluesbreakers with Eric Clapton",
+      "has_synced": false,
+      "path": "select/07_Double_Crossing_Time_-_Stereo_John_Mayall_&_The_Bluesbreakers_with_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Double Crossing Time (Stereo)",
+      "artist": "John Mayall & The Bluesbreakers Eric Clapton",
+      "has_synced": false,
+      "path": "select/08_Double_Crossing_Time_(Stereo)_John_Mayall_&_The_Bluesbreakers_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Doom Crossing: Eternal Horizons (feat. Natalia Natchan)",
+      "artist": "The Chalkeaters feat. Natalia Natchan",
+      "has_synced": true,
+      "path": "select/09_Doom_Crossing__Eternal_Horizons_(feat._Natalia_Natchan)_The_Chalkeaters_feat._Natalia_Natchan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Crossing (Osiyeza)",
+      "artist": "Johnny Clegg & Savuka",
+      "has_synced": true,
+      "path": "select/10_The_Crossing_(Osiyeza)_Johnny_Clegg_&_Savuka.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Crossing (Osiyeza)",
+      "artist": "Johnny Clegg and Savuka",
+      "has_synced": true,
+      "path": "select/11_The_Crossing_(Osiyeza)_Johnny_Clegg_and_Savuka.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Crossing (Ooh The Action)",
+      "artist": "Grace Jones",
+      "has_synced": false,
+      "path": "select/12_The_Crossing_(Ooh_The_Action)_Grace_Jones.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Zebras Crossing The Street",
+      "artist": "Scooter",
+      "has_synced": false,
+      "path": "select/13_Zebras_Crossing_The_Street_Scooter.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crossing Borders (feat. Fritz Kalkbrenner)",
+      "artist": "Booka Shade feat. Fritz Kalkbrenner",
+      "has_synced": true,
+      "path": "select/14_Crossing_Borders_(feat._Fritz_Kalkbrenner)_Booka_Shade_feat._Fritz_Kalkbrenner.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Crossing Borders (feat. Fritz Kalkbrenner)",
+      "artist": "Booka Shade",
+      "has_synced": true,
+      "path": "select/15_Crossing_Borders_(feat._Fritz_Kalkbrenner)_Booka_Shade.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rope Bridge Crossing",
+      "artist": "John Parish & PJ Harvey",
+      "has_synced": false,
+      "path": "select/16_Rope_Bridge_Crossing_John_Parish_&_PJ_Harvey.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rope Bridge Crossing",
+      "artist": "John Parish",
+      "has_synced": false,
+      "path": "select/17_Rope_Bridge_Crossing_John_Parish.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crossing!",
+      "artist": "765 MILLIONALLSTARS",
+      "has_synced": false,
+      "path": "select/pl_01_Crossing!_765_MILLIONALLSTARS.txt"
+    }
+  ]
+}
